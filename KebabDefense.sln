@@ -1,7 +1,11 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{C3668574-16E1-640A-926E-F40BCC4A22BC}") = "KebabDefense", "Assembly-CSharp-firstpass.csproj", "{F8E44911-E9FD-04E1-D7FF-7DFB38C3D857}"
+EndProject
 Project("{C3668574-16E1-640A-926E-F40BCC4A22BC}") = "KebabDefense", "Assembly-CSharp.csproj", "{45CBC8D2-C4A2-8644-088E-766A313BAF64}"
+EndProject
+Project("{C3668574-16E1-640A-926E-F40BCC4A22BC}") = "KebabDefense", "Assembly-CSharp-Editor.csproj", "{BC2D80D1-7A35-23A0-0E84-5E1EE59C6410}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E44911-E9FD-04E1-D7FF-7DFB38C3D857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E44911-E9FD-04E1-D7FF-7DFB38C3D857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E44911-E9FD-04E1-D7FF-7DFB38C3D857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E44911-E9FD-04E1-D7FF-7DFB38C3D857}.Release|Any CPU.Build.0 = Release|Any CPU
 		{45CBC8D2-C4A2-8644-088E-766A313BAF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{45CBC8D2-C4A2-8644-088E-766A313BAF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45CBC8D2-C4A2-8644-088E-766A313BAF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45CBC8D2-C4A2-8644-088E-766A313BAF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2D80D1-7A35-23A0-0E84-5E1EE59C6410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2D80D1-7A35-23A0-0E84-5E1EE59C6410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2D80D1-7A35-23A0-0E84-5E1EE59C6410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2D80D1-7A35-23A0-0E84-5E1EE59C6410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
